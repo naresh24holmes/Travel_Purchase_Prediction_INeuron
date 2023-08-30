@@ -51,5 +51,5 @@ https://travel-package-app-709689fca2a4.herokuapp.com/
     4) Deployment : Heruko
 
 
-Lets connect on LinkedIn:- https://www.linkedin.com/in/manasi-khillare-a189b3259/
+Lets connect on LinkedIn:- https://www.linkedin.com/in/naresh-k-a76a02241/
  
