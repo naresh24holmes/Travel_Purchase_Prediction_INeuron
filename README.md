@@ -2,7 +2,7 @@
 Youtube demo link : https://www.youtube.com/watch?v=on0zqSF7i4o&t=30s
 
 ```markdown
-[![Open In Colab](https://colab.research.google.com/github/naresh24holmes/Travel_Purchase_Prediction_INeuron/blob/master/notebook.ipynb)](https://raw.githubusercontent.com/naresh24holmes/Travel_Purchase_Prediction_INeuron/main/Documents/Tourism%20Data%20Guide%20Notebook.ipynb)
+https://colab.research.google.com/drive/1V2c_GqVmZT2NfzQOByQYjfr_uQOfhk5n#scrollTo=h13reMCDHh8M
 ```
 ## Problem Statement :
 
