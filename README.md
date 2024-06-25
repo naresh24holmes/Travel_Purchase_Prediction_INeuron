@@ -1,10 +1,10 @@
 # Travel Package Purchase Prediction | iNeuron | Internship Project
 Youtube demo link : https://www.youtube.com/watch?v=on0zqSF7i4o&t=30s
 
-```
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
 (https://colab.research.google.com/github/naresh24holmes/Travel_Purchase_Prediction_INeuron/blob/main/Documents/Tourism%20Data%20Guide%20Notebook.ipynb)
-```
+
 ## Problem Statement :
 
 Tourism is one of the most rapidly growing global industries and tourism forecasting is becoming an increasingly important activity in planning and managing the industry. Because of high fluctuations of tourism demand, accurate predictions of purchase of travel packages are of high importance for tourism organizations. 
