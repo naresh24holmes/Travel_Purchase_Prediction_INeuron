@@ -1,8 +1,8 @@
 # Travel Package Purchase Prediction | iNeuron | Internship Project
 Youtube demo link : https://www.youtube.com/watch?v=on0zqSF7i4o&t=30s
 
-```markdown
-https://colab.research.google.com/drive/1V2c_GqVmZT2NfzQOByQYjfr_uQOfhk5n#scrollTo=h13reMCDHh8M
+```
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1V2c_GqVmZT2NfzQOByQYjfr_uQOfhk5n#scrollTo=h13reMCDHh8M)]
 ```
 ## Problem Statement :
 
