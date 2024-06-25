@@ -2,8 +2,8 @@
 Youtube demo link : https://www.youtube.com/watch?v=on0zqSF7i4o&t=30s
 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-(https://colab.research.google.com/github/naresh24holmes/Travel_Purchase_Prediction_INeuron/blob/main/Documents/Tourism%20Data%20Guide%20Notebook.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
+(https://colab.research.google.com/github/naresh24holmes/Travel_Purchase_Prediction_INeuron/blob/main/Documents/Tourism%20Data%20Guide%20Notebook.ipynb)]
 
 ## Problem Statement :
 
